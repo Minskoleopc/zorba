@@ -79,6 +79,10 @@ public class day1 {
 		
 	}
 	
+	public static int Calculator2(int x , int y) {
+			return x+ y;
+	}
+	
 	
 	
 	
