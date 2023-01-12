@@ -74,9 +74,6 @@ public class day2 {
 		System.out.println(q23);
 		System.out.println(q23+q23);
 		
-		
-	
-	
 	}
 	
 	static void Cal(int x , int y) {
