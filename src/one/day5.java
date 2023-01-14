@@ -77,15 +77,15 @@ public class day5 {
 //			System.out.println("Grade C");
 //		}
 		
-		int x1 = 100;
-		int x2 = 15;
-		
-		if(x1 > x2 ) {
-			System.out.println("x1 is greater");
-		}
-		else {
-			System.out.println("x2 is greater");
-		}
+//		int x1 = 100;
+//		int x2 = 15;
+//		
+//		if(x1 > x2 ){
+//			System.out.println("x1 is greater");
+//		}
+//		else {
+//			System.out.println("x2 is greater");
+//		}
 		
 		
 		
