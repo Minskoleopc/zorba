@@ -86,7 +86,7 @@ public class day7 {
 		switch(city) {
 			case "pune":
 			case "mumbai":
-				System.out.println("Texas");
+				System.out.println("MH");
 				break;
 			case "indore":
 			case "bhopal":
@@ -100,6 +100,21 @@ public class day7 {
 				System.out.println("Incorrect city name");
 				
 		}
+		
+		
+		int days = 1;
+		
+		if(day == 1) {
+			System.out.println("Sunday");
+		}
+		else if(day == 2) {
+			System.out.println("Sunday");
+		}
+		else {
+			System.out.println("please input correct day");
+		}
+		
+		
 		
 		
 	
