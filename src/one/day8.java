@@ -75,7 +75,7 @@ public class day8 {
 		}
 		
 		for(int i = 5 ; i >= 2 ; i--) {  // 4
-			System.out.println(i);  // 5 // 4
+			System.out.println(i);  // 5  // 4
 			if(i == 4) {
 				break;
 			}
@@ -90,33 +90,6 @@ public class day8 {
 			}
 			System.out.println(i);  // 1 // 2 // 4 // 5
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		
 		
 		
