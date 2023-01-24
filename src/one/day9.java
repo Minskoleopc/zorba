@@ -136,63 +136,20 @@ public class day9 {
 		int i8 = 1 ;
 		while(i8 <= 5) {
 			if(i8 == 2) {
-				//i8 ++; // 3
+				i8 ++;  // 3
 				continue;
 			}
-			System.out.println(i8);  //1 // 3 // 4 // 5
-			i8++; // 2 // 4 // 5 // 6
+			System.out.println(i8);  // 1 
+			i8++;  // 2
 		}
 		
+	
+		// toss the coin 5 tyms if head comes break - for
+		// toss the coin until its head - while
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-				
-		
-		
-		
-		
-		
-		
-				
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		// Quickly go through basic java concepts - week 
+		// Java in detail  -- selenium
 
 	}
 
