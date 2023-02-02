@@ -36,13 +36,11 @@ class Human {
 	// Properties or fields
 	String fullname;
 	int age;
-
 	// constructor to set property values , field values
 	public Human(String fullN, int age) { //
 		this.fullname = fullN;
 		this.age = age;
 	}
-	
 	// methods 
 	// talk() and walk()
 	
@@ -55,3 +53,5 @@ class Human {
 	}
 	
 }
+
+// vehicle type and create object out of it
