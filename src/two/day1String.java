@@ -73,26 +73,10 @@ public class day1String {
 		int q2 = country.toUpperCase().toLowerCase().length();
 		System.out.println(q2);
 		//"nepal".length() 
-		//5.toUpperCase()
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
+		//"5".toUpperCase()
+		System.out.println("5".toUpperCase());
+			
 	}
-
+		
+	
 }
