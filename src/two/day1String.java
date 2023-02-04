@@ -47,7 +47,8 @@ public class day1String {
 		
 		String three = "I am learning ";
 		String four = "java !";
-		String five = three.concat(four);
+		String five = three.concat(four).concat("Happy learning !");
+		//            "I am learning java"             
 		System.out.println(five);
 		
 		// Program 6
