@@ -149,14 +149,15 @@ public class day7 {
 		System.out.println(t1[1][1][1]);
 		System.out.println(t1[0][1][2]);
 		
+		
+		
 		// for loop 
 		// for each loop
 		
 		
 		
-		
-		
-				
+	
+					
 		
 		
 	}
