@@ -122,3 +122,13 @@ class DataC {
 	}
 
 }
+
+// public and access 
+// default and access
+// private and access
+// private field and private method and access
+// set and get private field without constructor
+// set and get private field with constructor
+// can constructor be private??
+
+
