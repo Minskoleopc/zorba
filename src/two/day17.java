@@ -82,7 +82,7 @@ abstract  class Information{
 		this.lastName = lastName;		
 	}
 	
-	abstract public void displayName();
+		abstract public void displayName();
 	
 	
 }
@@ -114,6 +114,35 @@ class Student extends Information {
 // Menu items 
 // chicken tikka 
 // chicken burger
+
+
+// pune   - price
+// banglore - price
+// mumbai - price
+
+
+
+
+//credit card
+//withdrawl();
+
+// payTM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
