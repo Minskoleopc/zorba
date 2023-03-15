@@ -15,6 +15,9 @@ enum Carss {
 		this.typeCar = a;
 	}
 	
+	public String getTypes() {
+		return this.typeCar;
+	}
 
 }
 public class day23D {
@@ -23,6 +26,7 @@ public class day23D {
 		// TODO Auto-generated method stub
 		Carss a = Carss.SEDANE;
 		//System.out.println(a.);
+		System.out.println(a.getTypes());
 	}
 
 }
